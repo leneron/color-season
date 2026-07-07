@@ -320,7 +320,7 @@ button [data-testid="stIconMaterial"],
 
 
 st.title("Color season detector")
-st.caption("Upload one or more photos to know your color season!\\\n Requirements: even daylight of flashlight, not overexposed, no harsh shadows. Better if iris is visible")
+st.caption("Upload one or more photos to know your color season!\\\n Requirements: even daylight of flash, not overexposed, no harsh shadows. Better if iris is visible")
 
 # --- model picker (dropdown) ---
 available = {name: spec for name, spec in MODEL_FILES.items()
