@@ -1,6 +1,6 @@
 # Color season detector
 This is a deep learning / machine learning project, intended to explore the possibilities of seasonal analysis. 
-As a result, there is an application 
+As a result, there is an application which provides the averaged probabilities of subseasons and apply a colorful virtual draping to your photos. 
 
 
 # Presentation
